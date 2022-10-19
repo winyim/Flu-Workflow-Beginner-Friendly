@@ -3,8 +3,6 @@ Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
 
-<center>
-
 |Command|Short For|Purpose
 :-------------------------:|:-------------------------:|:-------------------------:
 `ls`|listing|view contents of current directory
@@ -19,8 +17,11 @@ Mubareka Lab Flu Sequencing Bioinformatics Workflow
 `cat`|concatenate|create files, view contents of files, concatenate files
 `nano`|GNU nano|command line text editor
 
+<table>
+<thead>
+<tr>
+<th align="center">abc</th>
 
-</center>
 
 `cd` examples:
 
