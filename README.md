@@ -1,4 +1,4 @@
-# Flu-Workflow
+# Flu Workflow
 Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
@@ -112,7 +112,7 @@ tmux
 
 >To view the shortcuts `nano ~/.tmux.conf`
 
-<center>
+<div align="center">
 
 Common tmux shortcuts
 |tmux shortcut|Purpose|
@@ -123,7 +123,7 @@ Common tmux shortcuts
 |alt + arrowkey |select pane in the direction of arrowkey|
 |ctrl + D| closes a pane|
 
-</center>
+</div>
 
 ## Install Conda
 
