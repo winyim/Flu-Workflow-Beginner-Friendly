@@ -3,6 +3,7 @@ Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
 .center[
+
 |Command|Short For|Purpose
 :-------------------------:|:-------------------------:|:-------------------------:
 `ls`|listing|view contents of current directory
@@ -16,7 +17,9 @@ Mubareka Lab Flu Sequencing Bioinformatics Workflow
 `..`|one up|used to indicate parent directory (directory one level up)
 `cat`|concatenate|create files, view contents of files, concatenate files
 `nano`|GNU nano|command line text editor
+
 ]
+
 `cd` examples:
 
 - This will change your current directory to the `Downloads` folder, given this folder is listed in your current directory.
