@@ -271,7 +271,8 @@ Once Trim-Galore has finished, check resulting FastQC outputs to check quality o
 Example of FastQC results of before and after Trim-Galore trimming (adapters should be removed):
 Before             |  After
 :-------------------------:|:-------------------------:
-![before](beforetrim.JPG)|![after](aftertrim.JPG)
+![beforetrim](https://user-images.githubusercontent.com/95540789/196755664-53c5f524-ae44-40b7-bb44-fc9d67cf54bd.JPG)|![aftertrim](https://user-images.githubusercontent.com/95540789/196755727-9ffe53eb-c0b6-4918-babd-b30a5fe5bdd0.JPG)
+
 
 ## Step 3 - IRMA: Iterative Refinement Meta-Assembler
 
