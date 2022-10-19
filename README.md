@@ -2,15 +2,7 @@
 Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-<table class="center">
-  <tr>
-    <td><img src="https://via.placeholder.com/150"></td>
-  </tr>
-</table> 
+
 <center>
 
 |Command|Short For|Purpose
