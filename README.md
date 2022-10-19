@@ -2,7 +2,7 @@
 Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
-.center[
+<div align="center">
 
 |Command|Short For|Purpose
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -18,7 +18,7 @@ Mubareka Lab Flu Sequencing Bioinformatics Workflow
 `cat`|concatenate|create files, view contents of files, concatenate files
 `nano`|GNU nano|command line text editor
 
-]
+</div>
 
 `cd` examples:
 
