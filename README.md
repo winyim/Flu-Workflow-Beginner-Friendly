@@ -235,8 +235,8 @@ Pay attention to the per base sequence quality and sequence length distribution.
 Here are some examples of what to look for in the FastQC results:
 |Good|Bad|
 :-------------------------:|:-------------------------:
-![good example](goodexample.JPG)|![bad example](badexample.JPG)
-![good](gooddist.JPG)|![bad](baddist.JPG)
+![goodexample](https://user-images.githubusercontent.com/95540789/196755849-9e052b09-8d07-4d9d-9150-71231bf40c68.JPG)|![badexample](https://user-images.githubusercontent.com/95540789/196755876-33c6a36b-6059-4166-8040-4ece29513366.JPG)
+![gooddist](https://user-images.githubusercontent.com/95540789/196755903-e8244189-8f11-4cd4-a147-49778464c121.JPG)|![badexample](https://user-images.githubusercontent.com/95540789/196755921-875f5985-486b-4659-85a7-314fba49aec2.JPG)
 
 ## Step 2 - Quality trim and remove adapters with Trim-Galore
 
