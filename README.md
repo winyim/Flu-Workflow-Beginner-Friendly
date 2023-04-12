@@ -1,5 +1,6 @@
-# Flu Workflow (Beginner-Friendly)
+# Flu Workflow Illumina (Beginner-Friendly)
 Mubareka Lab Flu Sequencing Bioinformatics Workflow
+This tutorial will provide a basic guide to set up your workspace and start analyzing Illumina reads for Influenza.  
 
 ## Commonly used commands in Unix shell
 <div align="center">
