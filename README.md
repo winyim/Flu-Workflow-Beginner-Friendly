@@ -100,10 +100,10 @@ To install:
 sudo apt-get install tmux
 ```
 
-Before we enter our tmux environment, let's copy a tmux configuration for better shortcuts to our `$HOME` directory. 
+Before we enter our tmux environment, we can copy the provided tmux configuration for better shortcuts to our `$HOME` directory. 
 
 ```bash
-cp /mnt/q/Winfield/scripts/.tmux.conf ~/
+cp {path_to_config}/.tmux.conf ~/
 ```
 
 Now we can enter tmux enviroment:
@@ -116,7 +116,7 @@ tmux
 
 <div align="center">
 
-Common tmux shortcuts
+Commonly used tmux shortcuts from our config
 |tmux shortcut|Purpose|
 :-------------------------:|:-------------------------:
 |ctrl + a| bind-key (activates tmux command)|
