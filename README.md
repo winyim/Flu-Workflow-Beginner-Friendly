@@ -1,4 +1,4 @@
-# Flu Workflow
+# Flu Workflow (Beginner-Friendly)
 Mubareka Lab Flu Sequencing Bioinformatics Workflow
 
 ## Commonly used commands in Unix shell
