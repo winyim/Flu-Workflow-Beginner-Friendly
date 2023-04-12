@@ -103,7 +103,7 @@ sudo apt-get install tmux
 Before we enter our tmux environment, we can copy the custom tmux configuration from this repository for better shortcuts to our `$HOME` directory. 
 
 ```bash
-cp {path_to_config}/.tmux.conf ~/
+cp [path_to_config]/.tmux.conf ~/
 ```
 
 Now we can enter tmux enviroment:
