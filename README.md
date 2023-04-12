@@ -193,18 +193,6 @@ It is finally time to begin an analysis! First we activate our Conda environment
 conda activate [env_name]
 ```
 
-Let's copy our data to our `$HOME` directory.
-
-```bash
-cp /mnt/q/Winfield/jbs_test ~/
-```
-Enter the directory after copying it. 
-
-```bash
-cd ~/jbs_test
-```
-
-
 ## Step 1 - Check quality of sequence data with FastQC
 
 [FastQC Github](https://github.com/s-andrews/FastQC)
