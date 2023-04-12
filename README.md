@@ -279,7 +279,7 @@ Before             |  After
 
 ## Step 3 - IRMA: Iterative Refinement Meta-Assembler
 
-[IRMA Usage](https://wonder.cdc.gov/amd/flu/irma/) > [IRMA Manuscript](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3030-6)
+[IRMA Usage](https://wonder.cdc.gov/amd/flu/irma/) &emsp; [IRMA Manuscript](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3030-6)
 
 To run IRMA you need to (1) indicate the module (our case `FLU`), (2) the paired-end trimmed illumina reads you wish to run and (3) the output name for the given sample. But first you need to be in the directory where your trimmed fastqs are.
 
