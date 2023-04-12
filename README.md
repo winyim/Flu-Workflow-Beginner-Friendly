@@ -208,10 +208,10 @@ mkdir fastqc_raw
 Next we can run FastQC on  our raw reads:
 
 ```bash
-fastqc /reads/dir/*.fastq.gz -o fastqc_raw
+fastqc [path_to_reads]*.fastq.gz -o fastqc_raw
 ```
 
-- `/reads/dir/` replace with directory that contain the Illumina raw reads
+- `[path_to_reads]` replace with directory that contain the Illumina raw reads
 - `*.fastq.gz` this just tells FastQC to run quality checks on anything inside the folder that ends with the ".fastq.gz"
 - `-o fastqc_raw` indicates the output folder you want to place all your FastQC results
 
