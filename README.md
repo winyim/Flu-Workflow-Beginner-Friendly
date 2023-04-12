@@ -60,7 +60,9 @@ mv  [folder/filnename] [newname]
 
 [WSL Installation Guide]
 
-If you are using a Windows system, WSL would be required.  First,  we need to install a Linux distribution from the Microsoft Store.  
+If you are using a Windows system, WSL would be required.  If you are using a Linux-based system, you can skip to the next part.
+
+First,  we need to install a Linux distribution from the Microsoft Store.  
 
 >Open Microsoft store and search for "Debian".  Click "Get".
 
