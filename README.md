@@ -56,11 +56,11 @@ mv  [folder/filnename] [newname]
 
 # Setting up your workspace
 
-## Windows Subsystem for Linux (WSL)
+## Windows Subsystem for Linux (WSL) 
 
 [WSL Installation Guide]
 
-First we need to install a Linux distribution from the Microsoft Store.  
+If you are using a Windows system, WSL would be required.  First,  we need to install a Linux distribution from the Microsoft Store.  
 
 >Open Microsoft store and search for "Debian".  Click "Get".
 
