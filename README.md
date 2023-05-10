@@ -283,5 +283,5 @@ After IRMA has been completed, you can explore the directories that it has creat
 [Cutadapt]: <https://github.com/marcelm/cutadapt>	
 [WSL Installation Guide]: <https://learn.microsoft.com/en-us/windows/wsl/install>
 [tmux]: <https://github.com/tmux/tmux/wiki>
-[this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
+[this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html>
 [This]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
