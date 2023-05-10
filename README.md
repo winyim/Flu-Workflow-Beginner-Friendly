@@ -97,7 +97,7 @@ wsl
 [tmux] allows you to multitask in terminal by creating multiple panes.
 
 To install:
-
+https://wonder.cdc.gov/amd/flu/irma/output.html
 ```bash
 sudo apt-get install tmux
 ```
@@ -279,11 +279,9 @@ IRMA FLU [READ1]_R1.fq [READ2]_R2.fq [SAMPLE_NAME]
 After IRMA has been completed, you can explore the directories that it has created. [This] is a good reference to have to help guide you through the outputs of IRMA.
 
 
-
-
-  [here]: <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
-  [Cutadapt]: <https://github.com/marcelm/cutadapt>	
-  [WSL Installation Guide]: <https://learn.microsoft.com/en-us/windows/wsl/install>
-  [tmux]: <https://github.com/tmux/tmux/wiki>
-  [this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
-  [This]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
+[here]: <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
+[Cutadapt]: <https://github.com/marcelm/cutadapt>	
+[WSL Installation Guide]: <https://learn.microsoft.com/en-us/windows/wsl/install>
+[tmux]: <https://github.com/tmux/tmux/wiki>
+[this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
+[This]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
