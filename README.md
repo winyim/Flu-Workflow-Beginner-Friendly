@@ -276,7 +276,7 @@ To run IRMA you need to (1) indicate the module (our case `FLU`), (2) the paired
 IRMA FLU [READ1]_R1.fq [READ2]_R2.fq [SAMPLE_NAME]
 ```
 
-After IRMA has been completed, you can explore the directories that it has created. [This] is a good reference to have to help guide you through the outputs of IRMA.
+After IRMA has been completed, you can explore the directories that it has created. If needed, [this] is a good reference to help guide you through the outputs of IRMA.
 
 
 [here]: <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
@@ -284,4 +284,4 @@ After IRMA has been completed, you can explore the directories that it has creat
 [WSL Installation Guide]: <https://learn.microsoft.com/en-us/windows/wsl/install>
 [tmux]: <https://github.com/tmux/tmux/wiki>
 [this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html>
-[This]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
+[this]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
