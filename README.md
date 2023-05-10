@@ -276,15 +276,14 @@ To run IRMA you need to (1) indicate the module (our case `FLU`), (2) the paired
 IRMA FLU [READ1]_R1.fq [READ2]_R2.fq [SAMPLE_NAME]
 ```
 
-After IRMA has been completed, you can explore the directories that it has created.
+After IRMA has been completed, you can explore the directories that it has created. [This] is a good reference to have to help guide you through the outputs of IRMA.
 
-<!-- ## Bash/Python Scripting for Batch Resulting
 
-As you may have noticed, steps 2 and 3 can only be performed on one sample at a time. Obviously this is not ideal when trying to result multiple samples at the same time. -->
 
 
   [here]: <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
   [Cutadapt]: <https://github.com/marcelm/cutadapt>	
   [WSL Installation Guide]: <https://learn.microsoft.com/en-us/windows/wsl/install>
   [tmux]: <https://github.com/tmux/tmux/wiki>
-  [this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html>
+  [this guide]: <https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
+  [This]: <https://wonder.cdc.gov/amd/flu/irma/output.html>
